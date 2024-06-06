@@ -8,4 +8,8 @@
     <string name="excluir">Excluir</string>
     <string name="pinpoint">Pinpoint</string>
     <string name="guia_das_praias">Guia das Praias</string>
+    <string name="title_activity_presentation">Presentation</string>
+    <string name="feito_por">Feito por</string>
+    <string name="criadores">Criadores</string>
+    <string name="ir_para_o_app">ir para o app</string>
 </resources>
