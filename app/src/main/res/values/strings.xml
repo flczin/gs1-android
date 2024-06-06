@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LuigiFeliceRM94546</string>
+    <string name="nome_da_praia">Nome da praia</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="incluir">Incluir</string>
+    <string name="limpar_lista">Limpar lista</string>
+    <string name="excluir">Excluir</string>
+    <string name="pinpoint">Pinpoint</string>
+    <string name="guia_das_praias">Guia das Praias</string>
+</resources>
